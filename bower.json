@@ -1,0 +1,14 @@
+{
+  "name": "styleguide2-0",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "~3.2.0",
+    "modernizr": "~2.8.2",
+    "fontawesome": "~4.3.0",
+    "css-toggle-switch": "~3.1.1",
+    "datatables": "~1.10.6",
+    "curioussolutions-datetimepicker": "~0.1.7",
+    "spectrum": "~1.7.0",
+    "jquery.steps": "~1.1.0"
+  }
+}
